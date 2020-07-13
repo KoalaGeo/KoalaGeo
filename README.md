@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ![koala](fG4Fum1.gif) 
+ ![koala](https://raw.githubusercontent.com/KoalaGeo/KoalaGeo/master/fG4Fum1.gif) 
 
 
 Edd Lewis is the Standards Lead at the British Geological Survey, with responsibity of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessability…).
