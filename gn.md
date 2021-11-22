@@ -8,8 +8,8 @@ GeoNetwork Sprint Notes
 Applications
 
 - GeoNetwork `docker pull geonetwork:3.12.1-postgres`
-- Postgres
-- UK Gemini Plugin
+- Postgres (Not required...?)
+- UK Gemini Plugin - https://github.com/AstunTechnology/iso19139.gemini23/tree/3.12.x
 
 Requirements
 
