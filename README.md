@@ -2,10 +2,11 @@
 
  ![koala](https://raw.githubusercontent.com/KoalaGeo/KoalaGeo/master/fG4Fum1.gif) 
 
+Edd Lewis is the Standards Lead at the British Geological Survey, with the responsibility for improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessibility…).
 
-Edd Lewis is the Standards Lead at the British Geological Survey, with responsibity of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessability…).
+He is a member of the British Standard Institute IST/36 Geographic Information Committee, MEDIN Standards Committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format Committee and contributor to ISO/TC 211 & OGC standards.
 
-He is a member of the British Standard Insitute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee and contributor to ISO/TC 211 & OGC standards.
+Edd is married with one child, and when not at work can be found, Scouting, canoeing the waterways or at the archery range.
 
 <!--
 **KoalaGeo/KoalaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
